@@ -1,6 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello, I'm Takanobu Nakamura.</h1>
-</body>
-</html>
